@@ -146,7 +146,7 @@
     "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼-紫夜",
-      "detail": "https://suonizy.net",
+      "detail": "https://suonizy.net"
     },
     "maota": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",

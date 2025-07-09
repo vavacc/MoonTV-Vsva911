@@ -69,11 +69,15 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源"
     },
-    "wwzy": {
+    "wwhy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+      "name": "旺旺海外"
     },
-    "lzi": {
+    "wwgn": {
+      "api": "https://ww.tyyszy5.com/api.php/provide/vod",
+      "name": "旺旺国内"
+    },
+    "liangzi": {
       "api": "https://cj.lziapi.com/api.php/providedown/vod",
       "name": "量子资源"
     },
@@ -149,7 +153,7 @@
       "api": "https://www.fantuan.tv/api.php/provide/vod",
       "name": "饭团影视"
     },
-    "lzi": {
+    "yingshi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "影视工厂"
     },

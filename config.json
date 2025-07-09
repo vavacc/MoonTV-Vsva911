@@ -148,22 +148,6 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "爱坤资源"
-    },
-    "huya": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙资源"
-    },
-    "jyzy": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源"
-    },
-    "xinlang": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "name": "新浪资源"
-    },
-    "guangsu": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源"
     }
   }
 }
